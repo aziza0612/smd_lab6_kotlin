@@ -1,0 +1,1 @@
+# smd_lab6_kotlin
